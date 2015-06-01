@@ -1,0 +1,5 @@
+Pygame==1.9.1release
+mock==1.0.1
+pyscroll==2.14.2
+pytmx==3.20.9
+pyganim==0.9.0
